@@ -1,0 +1,1 @@
+My goal with creating a primarily luck-based golf game in python is to satisfy the primary requirements of the final project while creating a quick and easy game that I'd enjoy, along with my peers. 
